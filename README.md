@@ -1,2 +1,2 @@
-# Modulo-Java---Taller-Programacion
-Repo de mis trabajos practicos de Java, en la materia de taller de programacion.
+# Taller-De-Programacion__Modulo-OOP
+Repo de mis trabajos practicos del modulo OOP (Java) , en la materia de taller de programacion.
